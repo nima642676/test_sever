@@ -1,7 +1,12 @@
 [
   {
     "image": "https://s18.picofile.com/file/8435214026/xiaomi_redmi_note_10_228x228.webp.html",
-    "Text": "اiopولین اخبار ما \n\nگوشی, Lcom the های شئائمی ارزان شد",
+    "Text": "اولین اخبار ما \n\nگوشی های شئائمی ارزان شد",
     "Bower": "https://www.google.com"
+  },
+  {
+    "image": "https://s18.picofile.com/file/8435214026/xiaomi_redmi_note_10_228x228.webp.html",
+    "Text": "oops \n\nگjjjشئائمی ارزان شد",
+    "Bower": "https://www.jokers.com"
   }
 ]
