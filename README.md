@@ -5,8 +5,8 @@
     "Bower": "https://www.google.com"
   },
   {
-    "image": "https://s18.picofile.com/file/8435216134/1622472634950_620504576.jpg",
-    "Text": "اولین اخبار ما \n\nگوشی هایoopsی ارزان شد",
-    "Bower": "https://www.google.com"
+    "image": "https://s19.picofile.com/file/8435216576/1622472943276_620504576.jpg",
+    "Text": ? . End up in my head and shoulders, I. Param the place of the most part of \n\n :joker keeping me busy with the ",
+    "Bower": "https://www.jokers.com"
   }
 ]
