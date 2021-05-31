@@ -6,7 +6,7 @@
   },
   {
     "image": "https://s18.picofile.com/file/8435214026/xiaomi_redmi_note_10_228x228.webp.html",
-    "Text": "oops \n\nگjjjشئائمی ارزان شد",
+    "Text": "oops \n\nگkerpinfشئائمی ارزان شد",
     "Bower": "https://www.jokers.com"
   }
 ]
